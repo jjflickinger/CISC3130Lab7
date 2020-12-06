@@ -1,11 +1,12 @@
-# Welcome to my webpage
+# Jacob Flickinger
 
-welcome welcome welcome
+### Welcome!
+
+Thanks for visiting! I'm a software developer based in Brooklyn, NY.
 
 # About me
 
-- I live
-- here
+- I'm majoring in physics and computer science.
 
 # Projects
 
