@@ -1,25 +1,23 @@
-## Welcome to my webpage
+# Welcome to my webpage
 
 welcome welcome welcome
 
-### About me
+# About me
 
 - I live
 - here
 
-### Projects
+# Projects
 
 things i did
 
-# Header 1
-## Header 2
-### Header 3
+# Resume
 
-- Bulleted
-- List
+gotta attach the pdf
 
-1. Numbered
-2. List
+# Contact
+
+with Jodie Foster
 
 **Bold** and _Italic_ and `Code` text
 
