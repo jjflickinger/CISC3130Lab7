@@ -14,7 +14,8 @@ Thanks for visiting! I'm a software developer based in Brooklyn, NY.
 ## Projects
 
 - [top artists](https://github.com/jjflickinger/CISC3130Lab3) - builds an alphabetized list of most streamed artists on Spotify
-- [top song alphabetizer](https://github.com/jjflickinger/CISC3130Lab4) - builds an alphabetized, arbitrarily long list of song titles from Spotify charts 
+- [top song alphabetizer](https://github.com/jjflickinger/CISC3130Lab4) - builds an alphabetized, arbitrarily long list of song titles from Spotify charts
+- [grade calculator](https://github.com/jjflickinger/CISC3130Lab6) - calculates current grade and scores needed to obtain desired grade
 
 ## Resume
 
