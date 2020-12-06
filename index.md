@@ -13,7 +13,7 @@ Thanks for visiting! I'm a software developer based in Brooklyn, NY.
 
 ## Projects
 
- - <a href = "https://github.com/jjflickinger/CISC3130Lab4">builds</ a> a list of song titles from arbitrary amounts of Spotify charts data 
+ - <a href = "https://github.com/jjflickinger/CISC3130Lab4">builds a list of song titles from arbitrary amounts of Spotify charts data 
 
 ## Resume
 
