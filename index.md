@@ -22,4 +22,4 @@ gotta attach the pdf
 
 ## Contact
 
-You can always reach me at jacobjflickinger@gmail.com
+You can always reach me at [jacobjflickinger@gmail.com]
