@@ -4,21 +4,21 @@
 
 Thanks for visiting! I'm a software developer based in Brooklyn, NY.
 
-# About me
+## About me
 
 - I'm majoring in physics and computer science.
 
-# Projects
+## Projects
 
 things i did
 
-# Resume
+## Resume
 
 gotta attach the pdf
 
-# Contact
+## Contact
 
-You can always reach me at [jacobjflickinger@gmail.com]
+You can always reach me at jacobjflickinger@gmail.com.
 
 **Bold** and _Italic_ and `Code` text
 
