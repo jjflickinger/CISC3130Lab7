@@ -19,7 +19,7 @@ Thanks for visiting! I'm a software developer based in Brooklyn, NY.
 
 ## Resume
 
-gotta attach the pdf
+[My resume](https://raw.githubusercontent.com/jjflickinger/CISC3130Lab7/gh-pages/FlickingerJacobResume.pdf)
 
 ## Contact
 
