@@ -6,13 +6,14 @@ Thanks for visiting! I'm a software developer based in Brooklyn, NY.
 
 ## About me
 
-- I'm double majoring in physics and computer science at Brooklyn College, expected graduation Spring 2023
+- Proficient in Java, JavaScript, and html
+- Double majoring in physics and computer science at Brooklyn College, expected graduation Spring 2023
 - 3 years of experience
 - I enjoy making music and drinking coffee
 
 ## Projects
 
-things i did
+ - [https://github.com/jjflickinger/CISC3130Lab4] - creates a list of song titles from arbitrary amounts of Spotify charts data 
 
 ## Resume
 
