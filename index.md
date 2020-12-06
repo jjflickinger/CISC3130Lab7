@@ -17,7 +17,7 @@ gotta attach the pdf
 
 # Contact
 
-with Jodie Foster
+You can always reach me at [jacobjflickinger@gmail.com]
 
 **Bold** and _Italic_ and `Code` text
 
