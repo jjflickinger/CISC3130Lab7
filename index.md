@@ -1,15 +1,15 @@
 ## Welcome to my webpage
 
-test You can use the [editor on GitHub](https://github.com/jjflickinger/CISC3130Lab7/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+welcome welcome welcome
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+- I live
+- here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
 
-```markdown
-Syntax highlighted code block
+things i did
 
 # Header 1
 ## Header 2
